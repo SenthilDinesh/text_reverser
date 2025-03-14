@@ -62,5 +62,3 @@ Reversed character order: dlroW olleH
 Feel free to submit pull requests or report issues. Contributions are welcome!
 
 ---
-**Author:** Your Name  
-**GitHub:** [Your Profile](https://github.com/your-username)
